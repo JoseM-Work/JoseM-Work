@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Passionate full-stack developer skilled in Python, Django, PostgreSQL, and building end-to-end web apps. I also explore AI/ML and IoT projects
+Passionate full-stack developer skilled in Python, Django, PostgreSQL,SQLite, REST API and building end-to-end web apps. I also explore AI/ML and IoT projects
 
 
 ## 🌐 Socials:
